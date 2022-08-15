@@ -1,7 +1,4 @@
 ### Hi, I'm Jafar Bakhshaliyev 👋
-- 🌱 I’m currently studying MS Finance at the University of Texas at Dallas.
-- 👻 I'm interested in Credit Risk, Data Science, FinTech, and Finance.
-- 📫 How to reach me: jafar.bakhshaliyev@gmail.com
 
 I have successfully completed BS Industrial Engineering at Bilkent University and MS Financial Mathematics at the University of Texas at Dallas. I gained knowledge in Risk Management (Credit Risk, Financial Risk), Optimization, ML/NLP methods, Financial Technology, Project Management, and Decision Making/Strategic Planning.
 
