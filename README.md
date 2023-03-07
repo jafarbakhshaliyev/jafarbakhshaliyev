@@ -1,8 +1,8 @@
 ### Hi, I'm Jafar Bakhshaliyev 👋
 
-I have successfully completed BS Industrial Engineering at Bilkent University and MS Financial Mathematics at the University of Texas at Dallas. I gained knowledge in Risk Management (Credit Risk, Financial Risk), Optimization, ML/NLP methods, Financial Technology, Project Management, and Decision Making/Strategic Planning.
+I have attained a Bachelor of Science in Industrial Engineering from Bilkent University and a Master of Science in Financial Mathematics from the University of Texas at Dallas. Through my coursework, I have gained knowledge in the areas of Risk Management, specifically in Credit Risk and Financial Risk, Optimization, Machine Learning/Natural Language Processing methods, Financial Technology, Project Management, and Decision Making/Strategic Planning. I am currently pursuing a degree in Data Analytics at the University of Hildesheim with the goal of contributing to impactful research and further specializing in my field.
 
-In my professional experience, I worked on end-to-end Machine Learning projects that covered Data Analysis/Cleaning, Data Organization/Transformation, Feature Engineering, Model Training, and Model Evaluation and Validation.
+My professional experience includes working on end-to-end Machine Learning projects, including Data Analysis/Cleaning, Data Organization/Transformation, Feature Engineering, Model Training, and Model Evaluation and Validation.
 
 💻 Programming: Python (Numpy, Pandas, Matplotlib, SciPy, Scikit-Learn, Keras, TensorFlow), SQL, R, MATLAB, Java, VBA
 
