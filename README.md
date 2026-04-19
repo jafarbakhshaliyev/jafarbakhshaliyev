@@ -38,7 +38,7 @@ I'm a **PhD Candidate in Computer Science** at the [University of Hildesheim](ht
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jafarbakhshaliyev&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jafarbakhshaliyev&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafarbakhshaliyev&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
