@@ -8,7 +8,7 @@ I'm a **PhD Candidate in Computer Science** at the [University of Hildesheim](ht
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🎓 Background
 
@@ -17,7 +17,7 @@ I'm a **PhD Candidate in Computer Science** at the [University of Hildesheim](ht
 - **B.Sc.** in Industrial Engineering — Bilkent University
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 🌐 Connect with Me
 
