@@ -21,26 +21,6 @@ I'm a **PhD Candidate in Computer Science** at the [University of Hildesheim](ht
 
 ---
 
-### 📝 Selected Publications
-
-- **Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting** (2026)
-  *J. Bakhshaliyev, J. Burchert, N. Landwehr, L. Schmidt-Thieme*
-  [📄 arXiv](https://arxiv.org/abs/2604.09067) · [💻 Code](https://github.com/jafarbakhshaliyev/TPS)
-
-- **Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting** (2024)
-  *D. Arabi, J. Bakhshaliyev, A. Coskuner, K. Madhusudhanan, K. S. Uckardes*
-  [📄 arXiv](https://www.arxiv.org/abs/2408.10951) · [💻 Code](https://github.com/jafarbakhshaliyev/Wave-Augs)
-
----
-
-### 🛠️ Selected Projects
-
-- 🧠 [**Clinical ML for Neurodevelopmental Disorder**](https://github.com/jafarbakhshaliyev/ticnet) — *Medizinische Hochschule Hannover, Germany*
-- 🏭 **Dishwasher Plant Improvement** — *Arcelik Inc., Turkey*
-- 💳 [**Credit Risk Modeling**](https://github.com/jafarbakhshaliyev/Credit-Risk-Modeling) — *MaxDecisions Inc., USA*
-
----
-
 ### 🌐 Connect with Me
 
 - 🌍 **Website:** [jafarbakhshaliyev.github.io](https://jafarbakhshaliyev.github.io/)
@@ -53,9 +33,9 @@ I'm a **PhD Candidate in Computer Science** at the [University of Hildesheim](ht
 
 ### 📊 GitHub Stats
 
-![Jafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarbakhshaliyev&show_icons=true&theme=default&hide_border=true)
+![Jafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafarbakhshaliyev&show_icons=true&theme=default&hide_border=true&hide_rank=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarbakhshaliyev&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarbakhshaliyev&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook)
 
 ---
 
